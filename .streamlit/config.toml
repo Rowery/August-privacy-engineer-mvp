@@ -1,0 +1,23 @@
+# .streamlit/config.toml
+#
+# 这是Streamlit的原生主题配置文件
+# 它将定义你应用的所有外观，保证风格统一且无BUG
+
+[theme]
+
+# --- 调色板 (专业、清晰、高对比度) ---
+
+# 主色调 (用于按钮、交互)
+primaryColor = "#007AFF" # 专业蓝 (Apple Blue)
+
+# 主背景 (页面背景)
+backgroundColor = "#FFFFFF" # 纯白
+
+# 次级背景 (用于侧边栏、组件背景)
+secondaryBackgroundColor = "#F0F2F6" # 现代浅灰 (比F5F5F7更冷)
+
+# 文本颜色 (高对比度)
+textColor = "#0D1117" # 深空灰 (GitHub Black)
+
+# 字体
+font = "sans serif" # 自动使用系统最优字体 (SF Pro, Segoe UI, Roboto等)
